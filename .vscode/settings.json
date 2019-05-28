@@ -1,3 +1,11 @@
 {
-    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "files.associations": {
+        "*.hl": "c",
+        "chessboard.h": "c",
+        "ncurses.h": "c",
+        "curses.h": "c",
+        "main.h": "c",
+        "color.h": "c"
+    }
 }
